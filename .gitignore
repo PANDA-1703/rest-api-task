@@ -24,3 +24,7 @@ vendor/
 
 # Config
 .env
+
+# Go workspace file
+go.work
+go.work.sum
